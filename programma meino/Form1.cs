@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace programma_meino
 {
-    public partial class Form1 : Form
+    public partial class Treinplaat : Form
     {
-        public Form1()
+        public Treinplaat()
         {
             InitializeComponent();
         }
+
+      
     }
 }
